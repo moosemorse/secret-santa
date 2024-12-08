@@ -1,6 +1,4 @@
-package kotlin
-
-import java.io.IO.println
+package org.example.secretSanta.MainKt
 
 fun main() {
     println("Hello World!")
